@@ -1,0 +1,19 @@
+# Lands
+placeholder_name_of_continent
+placeholder_name_for_mountain_range
+placeholder_for_far_continent
+placeholder_name_for_colonies
+placeholder_name_of_inquisition_country
+
+# Factions
+placeholder_chaos_cult
+
+
+# Places
+
+
+
+
+
+# People
+placeholder_golden_emperors_name

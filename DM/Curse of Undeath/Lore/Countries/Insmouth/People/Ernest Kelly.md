@@ -1,0 +1,1 @@
+![ernest kelly.png](../../../../Resources/Character%20Images/Insmouth/ernest%20kelly.png)

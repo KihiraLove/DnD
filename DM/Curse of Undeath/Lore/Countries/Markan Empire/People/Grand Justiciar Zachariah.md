@@ -1,0 +1,2 @@
+![zachariah.png](../../../../Resources/Character%20Images/Markan%20Empire/zachariah.png)
+![malgnorath and zachariah.png](../../../../Resources/Character%20Images/Markan%20Empire/malgnorath%20and%20zachariah.png)

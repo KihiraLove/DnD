@@ -1,0 +1,1 @@
+![lestat de lioncourt.png](../../../../Resources/Character%20Images/Warochia/lestat%20de%20lioncourt.png)

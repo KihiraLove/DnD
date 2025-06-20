@@ -1,0 +1,5 @@
+[The cowardly cultist](Lore/Countries/Blackmarrow%20mountain/Quests/The%20cowardly%20cultist.md)  
+[Talisman trafficking](Lore/Countries/Warochia/Quests/Talisman%20trafficking.md)  
+[Rodent rampage](Lore/Free%20cities/Varrokk/Quests/Rodent%20rampage.md)  
+[The absent assessor](Lore/Free%20cities/Varrokk/Quests/The%20Absent%20Assessor.md)  
+[Toppling the triarchy](Lore/Free%20cities/Varrokk/Quests/Toppling%20the%20triarchy.md)
